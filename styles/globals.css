@@ -1,0 +1,76 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bug {
+  background: #aedf78;
+}
+
+.water {
+  background: #43ccff;
+}
+
+.grass {
+  background: #00ca91;
+}
+
+.fire {
+  background: #e95c4d;
+}
+
+.normal {
+  background: #a5a5a5;
+}
+
+.poison {
+  background: #7f2edb;
+}
+
+.electric {
+  background: #fdd90f;
+}
+
+.ground {
+  background: #776500;
+}
+
+.fairy {
+  background: #ff0c79;
+}
+
+.fighting {
+  background: rgb(134,61,33);
+}
+
+.psychic {
+  background: rgb(187, 37, 192);
+}
+
+.rock {
+  background: rgb(88,77,65);
+}
+
+.ghost {
+  background: rgb(95,94,171);
+}
+
+.ice {
+  background: rgb(152,213,237);
+}
+
+.dragon {
+  background: rgb(136,122,208);
+}
